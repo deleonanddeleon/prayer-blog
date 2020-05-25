@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Prayer Reflections`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Dennis Bibanco`,
+      summary: `for reflection amidst these times of difficulty.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Quotes amidst these times of difficulty.`,
+    siteUrl: `http://bibanco.deleonanddeleon.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `dbibanco@msn.com`,
     },
   },
   plugins: [
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Prayer Reflections`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

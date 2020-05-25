@@ -56,7 +56,8 @@ typings/
 
 # gatsby files
 .cache/
-public
+# cdeleon edits - comment out public, to enable deployment to home server
+# public
 
 # Mac files
 .DS_Store

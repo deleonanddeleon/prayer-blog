@@ -24,7 +24,7 @@ The Sabbath which is set apart for the worship of God and the contemplation of H
 
 Thank you and you can share this email.
 
-------------------------------------------------------------------------------
+***
 References:  
 Catholic Bible Revised Standard Version  
 Ignatius Catholic Study Bible  
